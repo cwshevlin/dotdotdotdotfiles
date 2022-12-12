@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/colin/.cargo'
+let g:netrw_dirhist_7='/Users/colin/.vim/bundle/YouCompleteMe/third_party/ycmd'
+let g:netrw_dirhist_6='/Users/colin/.vim/bundle/YouCompleteMe/third_party'
+let g:netrw_dirhist_5='/Users/colin/.vim/bundle/YouCompleteMe'
+let g:netrw_dirhist_4='/Users/colin/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party'
+let g:netrw_dirhist_3='/Users/colin/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party/mrab-regex'
+let g:netrw_dirhist_2='/Users/colin/.vim/bundle/YouCompleteMe/third_party/ycmd/third_party'
+let g:netrw_dirhist_1='/opt/homebrew/bin'
+let g:netrw_dirhist_0='/Users/colin/developer/classkick-web'
+let g:netrw_dirhist_9='/Users/colin/developer/classkick-web/gradle'
